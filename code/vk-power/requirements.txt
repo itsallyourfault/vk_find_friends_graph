@@ -1,0 +1,4 @@
+vk == 2.0.2
+vk_api
+neo4j
+boto3
